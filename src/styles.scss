@@ -5,6 +5,11 @@
 @import "../node_modules/ng-zorro-antd/ng-zorro-antd.css";
 @import "./assets/ng-zorro-antd.dark.scss";
 
+.ant-card-meta-avatar .icon {
+  background: none;
+  border-radius: 4px;
+}
+
 * {
   margin: 0;
   padding: 0;
